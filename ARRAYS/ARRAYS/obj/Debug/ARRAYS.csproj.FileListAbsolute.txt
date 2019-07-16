@@ -1,0 +1,7 @@
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\obj\Debug\ARRAYS.csprojAssemblyReference.cache
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\obj\Debug\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\bin\Debug\ARRAYS.exe.config
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\bin\Debug\ARRAYS.exe
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\bin\Debug\ARRAYS.pdb
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\obj\Debug\ARRAYS.exe
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\ARRAYS\ARRAYS\obj\Debug\ARRAYS.pdb
